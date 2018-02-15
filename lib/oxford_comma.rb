@@ -1,3 +1,4 @@
 def oxford_comma(array)
-  "kiwi"
+if array.count == 2
+end
 end
