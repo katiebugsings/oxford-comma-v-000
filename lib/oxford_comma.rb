@@ -7,5 +7,6 @@ elsif array.count == 3
   #array.join(" and ")
   #array.insert(-2, "and").join(" ")
   array[-1].insert(0, "and ")
+  array
 end
 end
